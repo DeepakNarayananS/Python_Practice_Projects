@@ -1,0 +1,154 @@
+{
+    "questions" : [
+        {
+            "question": "Why is Python popular in cybersecurity?",
+            "options": [
+                "It's a low-level language",
+                "It has a large library of tools",
+                "It's only used for web development",
+                "It's difficult to learn"
+            ],
+            "answer": "It has a large library of tools"
+        },
+        {
+            "question": "Which Python library is commonly used for network scanning?",
+            "options": [
+                "Pandas",
+                "Scapy",
+                "NumPy",
+                "Matplotlib"
+            ],
+            "answer": "Scapy"
+        },
+        {
+            "question": "What is the purpose of the 'Requests' library in Python?",
+            "options": [
+                "Data visualization",
+                "Making HTTP requests",
+                "File handling",
+                "Machine learning"
+            ],
+            "answer": "Making HTTP requests"
+        },
+        {
+            "question": "Which library can be used for creating network packets in Python?",
+            "options": [
+                "BeautifulSoup",
+                "Scapy",
+                "Flask",
+                "Django"
+            ],
+            "answer": "Scapy"
+        },
+        {
+            "question": "What is the main use of the 'BeautifulSoup' library?",
+            "options": [
+                "Data analysis",
+                "Web scraping",
+                "Cryptography",
+                "Network scanning"
+            ],
+            "answer": "Web scraping"
+        },
+        {
+            "question": "Which library is essential for handling data in cybersecurity?",
+            "options": [
+                "NumPy",
+                "TensorFlow",
+                "SciPy",
+                "Pandas"
+            ],
+            "answer": "Pandas"
+        },
+        {
+            "question": "What is the purpose of the 'Paramiko' library?",
+            "options": [
+                "Web development",
+                "Network automation",
+                "Creating machine learning models",
+                "File encryption"
+            ],
+            "answer": "Network automation"
+        },
+        {
+            "question": "Which Python library is often used for penetration testing?",
+            "options": [
+                "Django",
+                "Flask",
+                "Pwntools",
+                "NumPy"
+            ],
+            "answer": "Pwntools"
+        },
+        {
+            "question": "What can you achieve with the 'Cryptography' library in Python?",
+            "options": [
+                "Data visualization",
+                "File encryption and decryption",
+                "Web scraping",
+                "Creating web applications"
+            ],
+            "answer": "File encryption and decryption"
+        },
+        {
+            "question": "Why is Python considered a good choice for automating security tasks?",
+            "options": [
+                "It's always slow",
+                "It lacks libraries",
+                "It has extensive community support",
+                "It's only for beginners"
+            ],
+            "answer": "It has extensive community support"
+        },
+        {
+            "question": "Which library can be used for handling HTTP requests and responses?",
+            "options": [
+                "Flask",
+                "Requests",
+                "Tkinter",
+                "Matplotlib"
+            ],
+            "answer": "Requests"
+        },
+        {
+            "question": "What is the main purpose of the 'Selenium' library?",
+            "options": [
+                "Web automation",
+                "Data analysis",
+                "Machine learning",
+                "Network scanning"
+            ],
+            "answer": "Web automation"
+        },
+        {
+            "question": "Which library is useful for analyzing malware behavior?",
+            "options": [
+                "PyQt",
+                "Scikit-learn",
+                "YARA",
+                "Pillow"
+            ],
+            "answer": "YARA"
+        },
+        {
+            "question": "What type of testing can 'pytest' be used for in cybersecurity?",
+            "options": [
+                "Unit testing",
+                "Integration testing",
+                "Penetration testing",
+                "Both unit and integration testing"
+            ],
+            "answer": "Both unit and integration testing"
+        },
+        {
+            "question": "Which of the following is a key feature of Python in cybersecurity?",
+            "options": [
+                "Static typing",
+                "Cross-platform compatibility",
+                "Compiled language",
+                "No community support"
+            ],
+            "answer": "Cross-platform compatibility"
+        }
+    ]
+}
