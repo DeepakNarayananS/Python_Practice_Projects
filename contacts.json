@@ -1,1 +1,4 @@
-{"contacts": [{"name": "sdn", "age": 30, "email": "sdn@gmail.com"}]}
+{
+    "comment" : "This json file belongs to my third project",
+    "contacts": [{"name": "sdn", "age": 30, "email": "sdn@gmail.com"}]
+}
