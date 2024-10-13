@@ -1,4 +1,4 @@
-# Coding a Simple Game Zone Activity
+### Coding a Simple Game Zone Activity
 
 name = input("Enter your name : ")
 
