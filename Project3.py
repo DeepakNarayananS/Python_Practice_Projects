@@ -4,6 +4,7 @@
 import json
 
 # Function for Adding contact
+# strip() function is added to avoid empty spaces that are entered by the user mistakenly.
 def add_contact():
     name = input("name : ").strip()
     age = input("age : ").strip()
