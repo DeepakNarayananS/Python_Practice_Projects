@@ -1,5 +1,6 @@
-# Coding a Simple Calculator 
+### Coding a Simple Calculator 
 
+# Function For Getting Operands in Correct Format
 def operands(number):
     while True:
         value=input("Enter the operand " + str(number) + ": " )
